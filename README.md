@@ -1,8 +1,6 @@
 # Joke & Quote Generator
 
-A simple Python program that displays **random jokes and inspirational quotes** from a text file.
-
----
+This is a small Python practice project for generating random jokes and quotes, created to practice basic Python programming skills.
 
 ## Features
 
